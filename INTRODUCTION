@@ -1,0 +1,26 @@
+This project aims to predict the age and gender of a person using deep learning techniques applied to facial images. It uses a pre-trained convolutional neural network (CNN) model to detect facial features and classify both age group and gender with reasonable accuracy.
+
+🔍 Features
+Detects human faces in real-time or static images using OpenCV.
+
+Predicts gender (Male/Female).
+
+Predicts age range (e.g., 0–2, 4–6, 8–12, ..., 60+).
+
+Supports webcam/live video feed for real-time predictions.
+
+🛠️ Tech Stack
+Python
+
+OpenCV
+
+Keras/TensorFlow (or other framework you used)
+
+Pre-trained age & gender models
+
+📦 Applications
+Demographic analytics
+
+Smart advertisement targeting
+
+User profiling in retail and AI systems
